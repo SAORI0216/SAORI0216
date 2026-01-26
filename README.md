@@ -1,16 +1,45 @@
-## Hi there 👋
+## Hi I’m Saori 👋
+バックエンド中心に学習中のWebエンジニアです。
+FastAPI × Next.js を用いたチーム開発を経験しています。
 
-<!--
-**SAORI0216/SAORI0216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻Tech Stack
+### Main
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
 
-Here are some ideas to get you started:
+### Detail
+- Frontend: Next.js (App Router), TypeScript, Tailwind CSS
+- Backend: FastAPI, Python, SQLAlchemy, Redis, Node.js, Express, Prisma
+- Database: PostgreSQL, MySQL
+- Auth / Infra: Firebase Authentication, Firebase Storage
+- External API / Service:Stripe, LINE Messaging API
+- Other: Docker, GitHub, draw.io, figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+### 成分かんたん比較アプリ　しょくみる
+- 技術: Next.js (App Router), TypeScript, Tailwind CSS
+- 概要:ユーザー投稿型で商品データを蓄積し、AI解析によりアレルギー・制限条件に応じた成分比較を可能にするアプリ
+- 工夫点:
+  - シーディングの再実行性を考慮し、既存データの有無を判定して重複登録を防ぐロジックを実装。
+  - Bearer トークン方式を採用し、user_id をフロントから送信しない安全な設計を実現。
+  - 設計方針や利用方法をドキュメント化し、チーム内での実装品質の平準化に貢献。
+- Repository:https://github.com/SAORI0216/shokumiru
+
+## 🌱 Learning & Mindset
+- １
+- ２
+- ３
+
+## 👩‍🦰 Background
+- 家庭紙専門商社で営業職
+- 国家公務員として6年間勤務
+- 2025.10〜2026.01 コーディングブートキャンプ修了
+
+## 📩 Contact
+- Portfolio: https://xxxx(実装中)
+- Email: sa.06att.f@gmail.com
+- Zenn:https://zenn.dev/saorinn
+
+
