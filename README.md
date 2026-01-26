@@ -11,22 +11,22 @@ FastAPI × Next.js を用いたチーム開発を経験しています。
 
 
 ### Detail
-- Frontend: Next.js (App Router), TypeScript, Tailwind CSS
-- Backend: FastAPI, Python, SQLAlchemy, Redis, Node.js, Express, Prisma
-- Database: PostgreSQL, MySQL
-- Auth / Infra: Firebase Authentication, Firebase Storage
-- External API / Service:Stripe, LINE Messaging API
-- Other: Docker, GitHub, draw.io, figma
+- Frontend： Next.js (App Router), TypeScript, Tailwind CSS
+- Backend： FastAPI, Python, SQLAlchemy, Redis, Node.js, Express, Prisma
+- Database： PostgreSQL, MySQL
+- Auth / Infra： Firebase Authentication, Firebase Storage
+- External API / Service：Stripe, LINE Messaging API
+- Other： Docker, GitHub, draw.io, figma
 
 ## 🚀 Projects
 ### 成分かんたん比較アプリ　「しょくみる」
-- 技術: Next.js (App Router), TypeScript, Tailwind CSS
-- 概要:ユーザー投稿型で商品データを蓄積し、AI解析によりアレルギー・制限条件に応じた成分比較を可能にするアプリ
-- 工夫点:
+- 技術： Next.js (App Router), TypeScript, Tailwind CSS
+- 概要：ユーザー投稿型で商品データを蓄積し、AI解析によりアレルギー・制限条件に応じた成分比較を可能にするアプリ
+- 工夫点：
   - シーディングの再実行性を考慮し、既存データの有無を判定して重複登録を防ぐロジックを実装。
   - Bearer トークン方式を採用し、user_id をフロントから送信しない安全な設計を実現。
   - 設計方針や利用方法をドキュメント化し、チーム内での実装品質の平準化に貢献。
-- Repository<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" />:https://github.com/SAORI0216/shokumiru
+- Repository<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" />：https://github.com/SAORI0216/shokumiru
 
 ## 🌱 Learning & Mindset
 - 新しい技術に触れる際は、事前に公式ドキュメントや仕様を確認し、チーム開発において手戻りや混乱を生まないよう心掛けています。
@@ -39,8 +39,8 @@ FastAPI × Next.js を用いたチーム開発を経験しています。
 - 2025.10〜2026.01 コーディングブートキャンプ修了
 
 ## 📩 Contact
-- Portfolio: https://xxxx(実装中)
-- Email: sa.06att.f@gmail.com
-- Zenn:https://zenn.dev/saorinn
+- Portfolio： https://xxxx(実装中)
+- Email： sa.06att.f@gmail.com
+- Zenn：https://zenn.dev/saorinn
 
 
