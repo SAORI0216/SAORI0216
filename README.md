@@ -26,7 +26,7 @@ FastAPI × Next.js を用いたチーム開発を経験しています。
   - シーディングの再実行性を考慮し、既存データの有無を判定して重複登録を防ぐロジックを実装。
   - Bearer トークン方式を採用し、user_id をフロントから送信しない安全な設計を実現。
   - 設計方針や利用方法をドキュメント化し、チーム内での実装品質の平準化に貢献。
-- Repository<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15"style="vertical-align: middle; />：https://github.com/SAORI0216/shokumiru
+- Repository<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" style="vertical-align: middle; />：https://github.com/SAORI0216/shokumiru
 
 ## 🌱 Learning & Mindset
 - 新しい技術に触れる際は、事前に公式ドキュメントや仕様を確認し、チーム開発において手戻りや混乱を生まないよう心掛けています。
