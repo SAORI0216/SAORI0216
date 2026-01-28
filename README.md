@@ -14,9 +14,10 @@ FastAPI × Next.js を用いたチーム開発を経験しています。
 - Frontend： Next.js (App Router), TypeScript, Tailwind CSS
 - Backend： FastAPI, Python, SQLAlchemy, Redis, Node.js, Express, Prisma
 - Database： PostgreSQL, MySQL
+- Cloud / Serverless： PostgreSQL, MySQLAWS Lambda
 - Auth / Infra： Firebase Authentication, Firebase Storage
 - External API / Service：Stripe, LINE Messaging API
-- Other： Docker, GitHub, draw.io, figma
+- Other： Docker, GitHub, draw.io, Figma
 
 ## 🚀 Projects
 ### 成分かんたん比較アプリ　「しょくみる」
